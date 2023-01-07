@@ -1,5 +1,0 @@
-C:\Users\Roonfu\Desktop\WindowsCustomization v3\WindowsFastSettings\x64\Release\WindowsFastSettings.vcxproj.AssemblyReference.cache
-C:\Users\Roonfu\Desktop\WindowsCustomization v3\WindowsFastSettings\x64\Release\WindowsFastSettings.vcxproj.SuggestedBindingRedirects.cache
-C:\Users\Roonfu\Desktop\WindowsCustomization v3\WindowsFastSettings\x64\Release\WindowsFastSettings.AboutForm.resources
-C:\Users\Roonfu\Desktop\WindowsCustomization v3\WindowsFastSettings\x64\Release\WindowsFastSettings.MainForm.resources
-C:\Users\Roonfu\Desktop\WindowsCustomization v3\WindowsFastSettings\x64\Release\WindowsFastSettings.vcxproj.GenerateResource.cache
